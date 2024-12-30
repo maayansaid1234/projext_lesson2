@@ -37,6 +37,7 @@ const Form = ({setLocation}) => {
 
     
     console.log("Form submitted with data:", formData);
+    alert("נשלח בהצלחה!")
   };
 
   
